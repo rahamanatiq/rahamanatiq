@@ -1,5 +1,5 @@
-# Hi there, I'm Rahaman Atiq 👋
-### AI Engineer 🤖⚡
+# Hi there, I'm Md. Atiqur Rahman
+### AI Engineer 
 
 <p align="left">
  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -41,12 +41,4 @@ I am an **AI Engineer** specializing in the development and deployment of intell
 
 ---
 
-### 📊 Professional Metrics
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahamanatiq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahamanatiq&layout=compact&theme=tokyonight&hide=html,css,javascript" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahamanatiq&label=Profile%20Views&color=0077b5&style=flat" alt="Views" />
-</p>
